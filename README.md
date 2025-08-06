@@ -26,4 +26,4 @@ A simple and responsive **Recipe Finder Web App** built using **HTML**, **CSS**,
 
 ## 🚀 Live Demo
 
-👉 [Live Site](https://your-live-link-here.com)  
+👉 https://recipe-finder-zeta-liard.vercel.app
