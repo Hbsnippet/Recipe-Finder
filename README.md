@@ -1,26 +1,29 @@
-A clean and simple Recipe Finder built using HTML, CSS, and JavaScript, powered by the TheMealDB API. Search any dish, get detailed recipes, ingredients, cooking instructions, and more – all in one place!
+# 🍽️ Recipe Finder
 
-🔍 Features
-Search recipes by meal name 🥘
+A simple and responsive **Recipe Finder Web App** built using **HTML**, **CSS**, and **JavaScript**, powered by the free [TheMealDB API](https://www.themealdb.com/api.php). Search for any meal, get ingredients, instructions, and even a YouTube tutorial — all in one place!
 
-Get random recipe suggestions 🎲
+---
 
-View full instructions, ingredients, and YouTube tutorial 🎥
+## 🔥 Features
 
-Fully responsive & mobile-friendly 💻📱
+- 🔍 Search meals by name  
+- 🎲 Get a random recipe  
+- 🧂 See ingredients and measurements  
+- 📝 Step-by-step cooking instructions  
+- 🎥 Link to YouTube cooking video  
+- 💻 Clean & responsive UI
 
-Clean UI with smooth interactions ✨
+---
 
-⚙️ Tech Stack
-HTML5
+## ⚙️ Tech Stack
 
-CSS3
+- HTML5  
+- CSS3  
+- JavaScript (Vanilla)  
+- TheMealDB API
 
-JavaScript (Vanilla)
+---
 
-TheMealDB API
+## 🚀 Live Demo
 
-🚀 Live Demo
-🔗 Click Here to Try It Out
-(Replace with your actual live link if deployed)
-
+👉 [Live Site](https://your-live-link-here.com)  
